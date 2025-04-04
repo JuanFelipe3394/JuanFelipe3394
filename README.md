@@ -1,6 +1,10 @@
 <div style="background-color:#0d1117; color:white; padding:20px; border-radius:10px">
 
 <h1 align="left">Olá, seja bem vindo 🫡</h1>
+<p align="center">
+
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN29uY2c4a2pyZ3hlcWJteHRlM2x2MHh2Yng1ZmlnajZkcmxlMjJ6dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oYQ9HRm5Mo7VXeMNVR/giphy.gif" width="600"/>
+</p>
 
 ### 👨‍💻 Sobre mim
 
