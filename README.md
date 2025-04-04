@@ -78,7 +78,6 @@ Contribuições:
 
 - 📧 [juan__felipe94@hotmail.com](mailto:juan__felipe94@hotmail.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/juan-felipe-302b18272/)  
-- 💼 [GitHub](https://github.com/JuanFelipe3394)  
 - 📂 [Certificados](https://drive.google.com/drive/folders/1UGtfzWwUE8EP2k55SOl_TPKHwxcf0xkj?usp=drive_link)
 
 </div>
