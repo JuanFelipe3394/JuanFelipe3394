@@ -1,6 +1,3 @@
-<!-- Fundo com GIF animado -->
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXRnN2JoNnFic3cwMmltam8xZ3N5enhzaTc2cXV5N3gxeXc5dDdpaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEjHWbXcpeKhTktXi/giphy.gif" width="100%" style="position:absolute; z-index:-1; opacity:0.15;"/>
-
 <div style="background-color:#0d1117; color:white; padding:20px; border-radius:10px">
 
 <h1 align="left">Olá, seja bem vindo 🫡</h1>
