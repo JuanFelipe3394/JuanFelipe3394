@@ -25,6 +25,7 @@ Contribuições:
 - Frontend com **Angular**
 - Automação com **Python e Shell Script**
 - Práticas ágeis, testes e versionamento
+- Integração com APIs
 
 ---
 
@@ -37,7 +38,7 @@ Contribuições:
 - Apoio técnico e modelagem de sistemas para **gestão pública**
 - Integrações REST e microserviços
 - Projetos com foco em **acessibilidade**, **eficiência** e **transparência pública**
-- Integrações com APIs e sistemas legados
+- Manutenção e atualização de sistemas legados
 
 ---
 
