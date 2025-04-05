@@ -24,7 +24,6 @@ Contribuições:
 - Backend com **Java (Spring Boot)**
 - Frontend com **Angular**
 - Automação com **Python e Shell Script**
-- Integrações com APIs e sistemas legados
 - Práticas ágeis, testes e versionamento
 
 ---
@@ -38,6 +37,7 @@ Contribuições:
 - Apoio técnico e modelagem de sistemas para **gestão pública**
 - Integrações REST e microserviços
 - Projetos com foco em **acessibilidade**, **eficiência** e **transparência pública**
+- Integrações com APIs e sistemas legados
 
 ---
 
