@@ -26,6 +26,7 @@ Contribuições:
 - Automação com **Python e Shell Script**
 - Práticas ágeis, testes e versionamento
 - Integração com APIs
+- Banco de dados: MongoDB, PostgreSQL, MySQL, SQLite
 
 ---
 
