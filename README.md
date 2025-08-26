@@ -68,9 +68,9 @@ Contribuições:
 - Ambientes híbridos (on-premise + cloud)
 
 ### 👨‍💻 Desenvolvimento de Software
-- **Python**, **Java**, **JavaScript**, HTML/CSS
+- **Python**, **Java**, **JavaScript**, MongoDB, **PostgreSQL**, **MySQL**, SQLite, HTML/CSS
 - Flask, Spring Boot, Node.js (básico), Angular
-- APIs REST, arquitetura MVC, testes, Git
+- APIs REST, arquitetura MVC, testes, Git, Gitlab e Github
 
 ### 🧠 Metodologias e Soft Skills
 - **Scrum**, **Kanban**, **XP**
